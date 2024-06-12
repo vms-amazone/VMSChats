@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286961424398",
+    "project_id": "vms-chats",
+    "storage_bucket": "vms-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286961424398:android:8f6d66ae5831b725ec445f",
+        "android_client_info": {
+          "package_name": "VMS.Chats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUOSv3UN1tgtquUf-VB3uqP9YleANtHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
